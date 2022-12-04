@@ -10,7 +10,7 @@ Harapannya report ini dapat menjadi tambahan pertimbangan kepada perusahaan terk
 ## Objektif
 Report ini berusaha menjawab dan menjelaskan pertanyaan-pertanyaan dibawah ini
 1. Perusahaan ingin mengkaji kemungkinan pengembangan lini bisnis logistik memanfaatkan pola belanja dari customer saat ini. Untuk itu perusahaan perlu untuk mengetahui:
-    - Jumlah rata-rata transaksi setiap bulannya
+    - Jumlah transaksi setiap bulannya
     - Total transaksi keseluruhan
 
   Adapun, perusahaan mempertimbangkan lini bisnis diantara Otomotif, Perlengkapan Bayi, Minuman, Elektronik, Makanan, Perkakas Rumah, Alat Musik, Alat Tulis Kantor dan     Mainan Anak sebagai pilot project awal.
@@ -62,7 +62,7 @@ Terlihat jelas dari kolom review completeness bahwa fashion olahraga dan fashion
 
 
 ## Rekomendasi
-Dalam analisa yang telah dijalankan, masih terdapat berbagai ruang peningkatan untuk mencapai konklusi yang lebih baik. Misalnya pada objective 1 dapat dilakukan analsis lebih mendalam terhadap produk yang lebih spesifik dalam kategori yang ada. Pada objective 2 dapat dilakukan analisa trafik yang lebih mendalam dengan mentracking movement keluar masuk setiap state sehingga data yang didapat bukan summary in dan out tetapi arah daripada pergerakan trafik. Pada objective 3 perlu dianalisa frekuensi transaksi dari kategori produk, karena dalam testing diperlukan high volume agar hasil lebih cepat didapatkan
+Dalam analisa yang telah dijalankan, masih terdapat berbagai ruang peningkatan untuk mencapai konklusi yang lebih baik. Misalnya pada objective 1 dapat dilakukan analsis lebih mendalam terhadap produk yang lebih spesifik dalam kategori yang ada. Pada objective 2 dapat dilakukan analisa trafik yang lebih mendalam dengan mentracking movement keluar masuk setiap state sehingga data yang didapat bukan summary in dan out tetapi arah daripada pergerakan trafik. Pada objective 3 perlu dianalisa frekuensi transaksi dari kategori produk, karena dalam testing diperlukan high volume agar hasil lebih cepat didapatkan.
 
 ## Penutup
 Demikian analisa dipaparkan dengan ringkas dan to the point menyelesaikan objective yang disematkan. Tentunya proses analisa data yang 'kotor' menjadi insight membutuhkan perjalanan yang lebih panjang dibalik layar. Apabila anda tertarik untuk melihat proses dibalik layar maka anda dapat melihat raw file wrangling.ipynb dalam repository ini.
